@@ -116,7 +116,7 @@ cms-api
 
 **系统管理 > 用户管理**
 
-![userManagement](http://cdn.caihp.top/egg-cms/other/userManagement.png)
+![usersManagement](http://cdn.caihp.top/egg-cms/other/userManagement.png)
 
 
 
