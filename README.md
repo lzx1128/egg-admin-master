@@ -1,4 +1,4 @@
-# cms-api
+# egg-admin-api
 
 ## 描述
 
@@ -10,7 +10,7 @@ cms-api 为前后端分离的博客管理系统。
 
 前端技术栈：vue全家桶 + axios + elementUI + markdown编辑器等
 
-前端项目地址：https://github.com/caiheping/vue-cms
+前端项目地址：https://github.com/lzx1128/vue-admin-master
 
 ### 环境
 
@@ -21,9 +21,7 @@ MySQL数据库
 ### 项目运行
 
 ```bash
-git clone https://github.com/caiheping/egg-cms.git
-# 如果clone 很慢，也可以拉码云的仓库
-git clone https://gitee.com/caiheping/egg-cms.git
+git clone git@github.com:lzx1128/egg-admin-master.git
 cd egg-cms
 npm install
 ```
@@ -87,12 +85,6 @@ cms-api
 ├─ www						// 前端打包文件
 ...
 ```
-
-演示地址：http://blog.caihp.top （自己服务器只开放部分功能，想要查看全部功能，请copy代码在自己的电脑上看）
-
-用户名： test
-
-密码：123456
 
 ## 界面截图
 
@@ -167,9 +159,5 @@ cms-api
 **我的博客 > 文章详情**
 
 ![web-article-detail](http://cdn.caihp.top/egg-cms/other/web-article-detail.png)
-
-
-
-**传送门：前端vue3 + 后端egg项目地址：https://github.com/caiheping/oa-api   或者  https://gitee.com/caiheping/oa-api**
 
 如果对您有帮助，您可以点右上角 "Star" 支持一下 谢谢！ ^_^
